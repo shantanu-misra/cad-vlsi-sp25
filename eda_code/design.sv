@@ -1,0 +1,5 @@
+`include "controller.v"
+`include "alu.v"
+`include "memory.v"
+`include "processor.v"
+`include "risc_spm_top.v"
